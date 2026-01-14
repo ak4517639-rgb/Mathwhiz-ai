@@ -1,0 +1,7 @@
+{
+  "name": "MathWhiz AI",
+  "description": "An intelligent math education platform that solves problems via camera, provides step-by-step explanations, and offers interactive quizzes across various topics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
